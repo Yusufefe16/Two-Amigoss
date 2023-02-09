@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    padding: 0px 
+}
+
+
+.nav{
+    background-color: #212529;
+    padding-left: 0px;
+}
+
+.nav h3,h4 a{
+    color: antiquewhite;
+    margin-top: 30px;
+
+}
+
+
+.h4first{
+    margin-left: 150px;
+    padding-top: 30px;
+}
+
+.h4{
+    margin-right: 30px;
+    padding-top: 30px;
+}
+
+button{
+    background-color: rgb(174, 224, 224);
+    border: none;
+    border-radius: 7px;
+
+}
+
+footer{
+    background-color: #41464b;
+    position: relative;
+    text-align: center;
+}
